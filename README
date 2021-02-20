@@ -1,0 +1,16 @@
+This application demonstrates use of OAuth2 protocol to login to Github using a third party app such as this one. 
+
+Make sure before logging in using this application, to logout of github user which will be used as demo.
+
+To allow a third party application to access a github account, we need to create an Auth app in Github, link reference
+provided below
+
+clientId and clientSecret in application.properties need to be updated as per the Github Auth App
+
+Reference:
+
+https://www.youtube.com/watch?v=CWiwpvpCrro&ab_channel=JavaBrains
+
+https://docs.github.com/en/developers/apps/creating-an-oauth-app
+
+https://www.baeldung.com/spring-security-oauth2-enable-resource-server-vs-enable-oauth2-sso
