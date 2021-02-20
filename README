@@ -7,6 +7,8 @@ provided below
 
 clientId and clientSecret in application.properties need to be updated as per the Github Auth App
 
+IMPORTANT - Don't commit clientId and clientSecret in git source code repo and push
+
 Reference:
 
 https://www.youtube.com/watch?v=CWiwpvpCrro&ab_channel=JavaBrains
